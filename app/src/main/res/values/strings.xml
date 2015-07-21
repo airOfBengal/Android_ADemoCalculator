@@ -3,4 +3,12 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="operand_1">Operand 1, (And Result)</string>
+    <string name="zero">0</string>
+    <string name="operand_2">Operand 2</string>
+    <string name="message">Operand1 = Operand1 Operator Operand2</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
 </resources>
